@@ -205,7 +205,7 @@ https://github.com/GMyhf/2025fall-cs101/blob/main/ADS_problem_list_at_2025fall.m
 | 0831 | 04067: 回文数字    | queue    | Easy | http://cs101.openjudge.cn/pctbook/E04067          |
 | 0831 | 5.最长回文子串    | dp, two pointers, Manacher | Medium | https://leetcode.cn/problems/longest-palindromic-substring/          |
 | 0830 | 04123: 马走日      | backtracking      | Medium | http://cs101.openjudge.cn/pctbook/M04123          |
-| 0830 | 11.盛最多水的容器 | greedy, two pointers  | Medium | https://leetcode.cn/problems/container-with-most-water/          |
+| 0830 fin| 11.盛最多水的容器 | greedy, two pointers  | Medium | https://leetcode.cn/problems/container-with-most-water/          |
 | 0829 fin| 01321: 棋盘问题  | backtracking    | Medium | http://cs101.openjudge.cn/pctbook/M01321          |
 | 0829 fin| 1299.将每个元素替换为右侧最大元素 | dp   | Easy | https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/          |
 | 0828 fin| 08210: 河中跳房子  | binary search, greedy  | Medium  | http://cs101.openjudge.cn/pctbook/M08210                         |
